@@ -1,4 +1,4 @@
-# Pashu-Parvah AI 🐾
+# Pashu-Parvah AI 
 
 **Pashu-Parvah AI** is an AI-driven livestock health monitoring and early disease outbreak tracking platform designed to support farmers and veterinary healthcare workers.
 
